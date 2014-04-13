@@ -1,4 +1,4 @@
 Joyo Kanji List
 ===============
 
-A list of the Joyo Kanji based on http://www.csse.monash.edu.au/~jwb/jouyoukanji.html
+A list of the Joyo Kanji based on http://x0213.org/joyo-kanji-code/index.en.html
